@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/giganci_quiz/static/css/main.a59caae1.css",
+    "main.js": "/giganci_quiz/static/js/main.4e2d8ea1.js",
+    "static/js/453.1d0c73b6.chunk.js": "/giganci_quiz/static/js/453.1d0c73b6.chunk.js",
+    "static/media/mine-logo.png": "/giganci_quiz/static/media/mine-logo.1943b1e48c791d9d8cca.png",
+    "static/media/jungle.png": "/giganci_quiz/static/media/jungle.772f5a12763791267b35.png",
+    "static/media/logo.svg": "/giganci_quiz/static/media/logo.6edcee1a468848396bb016b8305e5291.svg",
+    "index.html": "/giganci_quiz/index.html",
+    "main.a59caae1.css.map": "/giganci_quiz/static/css/main.a59caae1.css.map",
+    "main.4e2d8ea1.js.map": "/giganci_quiz/static/js/main.4e2d8ea1.js.map",
+    "453.1d0c73b6.chunk.js.map": "/giganci_quiz/static/js/453.1d0c73b6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a59caae1.css",
+    "static/js/main.4e2d8ea1.js"
+  ]
+}
