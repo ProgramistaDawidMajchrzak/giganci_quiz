@@ -41,9 +41,10 @@ function Question({ setStartGame, shaffledQuestions }) {
         if (score >= 1 && score <= 5) {
             return 'Na pewno dasz radę lepiej!';
         } else if (score >= 6 && score <= 9) {
-            return 'Posiadasz dużą wiedzę w grze MINECRAFT, BRAWO!';
+            // return 'Posiadasz dużą wiedzę w grze MINECRAFT, BRAWO!';
+            return 'BRAWO!';
         } else if (score >= 10) {
-            return 'Jesteś mistrzem w grę MINECRAFT! GRATULACJE!';
+            return 'MAX! GRATULACJE!';
         } else {
             return '';
         }
