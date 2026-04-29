@@ -1,81 +1,77 @@
 [
   {
-    "question": "Jak w Lua tworzysz zmienna?",
+    "question": "Na jakim poziomie trudności moby nie atakują?",
     "answers": [
-      { "answer": "nazwa = wartosc", "is_correct": true },
-      { "answer": "var nazwa = wartosc", "is_correct": false },
-      { "answer": "nazwa := wartosc", "is_correct": false }
+      { "answer": "Łatwy", "is_correct": false },
+      { "answer": "Normalny", "is_correct": false },
+      { "answer": "Pokojowy", "is_correct": true },
+      { "answer": "Trudny", "is_correct": false }
     ]
   },
   {
-    "question": "Jaki typ ma zmienna: a = 1.2 ?",
+    "question": "Co robi opcja [Pokaż współrzędne]?",
     "answers": [
-      { "answer": "Liczba zmiennoprzecinkowa", "is_correct": true },
-      { "answer": "Zmienna znakowa", "is_correct": false },
-      { "answer": "Tablica", "is_correct": false }
+      { "answer": "Pokazuję lokalizacje", "is_correct": true },
+      { "answer": "Pokazuje czas", "is_correct": false }
     ]
   },
   {
-    "question": "Jak zapiszesz tekst w Lua?",
+    "question": "Czy mogę wyłączyć surowce z bloków?",
     "answers": [
-      { "answer": "\"tekst\"", "is_correct": true },
-      { "answer": "tekst()", "is_correct": false },
-      { "answer": "[tekst]", "is_correct": false }
+      { "answer": "Nie", "is_correct": false },
+      { "answer": "Tak", "is_correct": true }
     ]
   },
   {
-    "question": "Jak utworzysz pusta tablice?",
+    "question": "Jaka pogoda będzie jak wyłącze cykl pogodowy?",
     "answers": [
-      { "answer": "tab = {}", "is_correct": true },
-      { "answer": "tab = []", "is_correct": false },
-      { "answer": "tab = ()", "is_correct": false }
+      { "answer": "Słonecznie", "is_correct": true },
+      { "answer": "Deszczowo", "is_correct": false },
+      { "answer": "Śnieżnie", "is_correct": false }
     ]
   },
   {
-    "question": "Prawda czy falsz: true to prawda.",
+    "question": "Czy mogę zmienić tryb gry w grze?",
     "answers": [
-      { "answer": "Prawda", "is_correct": true },
-      { "answer": "Falsz", "is_correct": false }
+      { "answer": "TAK", "is_correct": true },
+      { "answer": "NIE", "is_correct": false }
     ]
   },
   {
-    "question": "Jaki operator znaczy \"rowne\"?",
+    "question": "Co to odległość symulacji?",
     "answers": [
-      { "answer": "==", "is_correct": true },
-      { "answer": "=", "is_correct": false },
-      { "answer": "!=", "is_correct": false }
+      { "answer": "Granica poruszania", "is_correct": false },
+      { "answer": "Granica renderowania mobów", "is_correct": true },
+      { "answer": "Czas gry", "is_correct": false },
+      { "answer": "Ile dni rozegrano", "is_correct": false }
     ]
   },
   {
-    "question": "Jaki operator znaczy \"rozne\"?",
+    "question": "Czy możemy włączyć zachowanie ekwipunku?",
     "answers": [
-      { "answer": "~=", "is_correct": true },
-      { "answer": "!=", "is_correct": false },
-      { "answer": "==", "is_correct": false }
+      { "answer": "TAK", "is_correct": true },
+      { "answer": "NIE", "is_correct": false }
     ]
   },
   {
-    "question": "Jak zaczyna sie if w Lua?",
+    "question": "Czy możemy wyłączyć generowanie mobów?",
     "answers": [
-      { "answer": "if warunek then", "is_correct": true },
-      { "answer": "if (warunek) {", "is_correct": false },
-      { "answer": "if warunek:", "is_correct": false }
+      { "answer": "NIE", "is_correct": false },
+      { "answer": "TAK", "is_correct": true }
     ]
   },
   {
-    "question": "Jak zamykasz blok if?",
+    "question": "Można grać multiplayer?",
     "answers": [
-      { "answer": "end", "is_correct": true },
-      { "answer": "}", "is_correct": false },
-      { "answer": "stop", "is_correct": false }
+      { "answer": "NIE", "is_correct": false },
+      { "answer": "TAK", "is_correct": true }
     ]
   },
   {
-    "question": "Jak wywolac funkcje test()?",
+    "question": "Czy mogę zginąć na trybie PRZETRWANIE?",
     "answers": [
-      { "answer": "test()", "is_correct": true },
-      { "answer": "call test", "is_correct": false },
-      { "answer": "test[]", "is_correct": false }
+      { "answer": "TAK", "is_correct": true },
+      { "answer": "NIE", "is_correct": false }
     ]
   }
 ]
